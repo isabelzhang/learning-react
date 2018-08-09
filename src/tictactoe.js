@@ -1,16 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './tictactoe.css';
 
 
 class Profile extends React.Component {
-  render () {
-    return(
+	render () {
+		return(
       <div>
         Hello
       </div>
-    );
-  }
+		);
+	}
 }
 // ========================================
 
